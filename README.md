@@ -20,4 +20,4 @@ You can add new languages by creating new "Script Filter".
 
 ![CleanShot 2021-01-12 at 14.52.44@2x.png](https://i.loli.net/2021/01/12/QqMLPzRUIyVlprB.png)
 
-Just keep one thing in mind, either the source language and the target language is supported by Linguee.
+Just keep one thing in mind, either the source language or the target language is supported by Linguee.
