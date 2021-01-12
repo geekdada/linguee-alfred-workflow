@@ -12,7 +12,7 @@ prepare_assets:
 	mkdir -p $(BINDIR)
 	mkdir -p $(RELEASEDIR)
 	cp ./assets/* $(BINDIR)/
-	sed -i 's/WORKFLOW_VERSION/$(VERSION)/g' $(BINDIR)/info.plist
+	sed -i '' 's/WORKFLOW_VERSION/$(VERSION)/g' $(BINDIR)/info.plist
 
 zip_artifact:
 	chmod +x $(BINDIR)/$(NAME)
