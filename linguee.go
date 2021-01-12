@@ -11,7 +11,7 @@ import (
 
 	"github.com/PuerkitoBio/goquery"
 	"github.com/djimenez/iconv-go"
-	alfred "github.com/pascalw/go-alfred"
+	"github.com/pascalw/go-alfred"
 )
 
 type Request struct {
